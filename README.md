@@ -151,7 +151,7 @@ Select the resource group that the VMs are in, mine is "RG-LAB-02". Then hit nex
 
 After that go back to the Network Watcher page and go to the Topology section and it should now show up!
 
-Congratulations, you made it to the end of this lab! Now you can either delete the resource groups to clean up, or keep the resources to proceed to the next lab/tutorial where we observe network traffic between the two VMs using wireshark.
+Congratulations, you made it to the end of this lab! Now you can either delete the resource groups to clean up as listed in the next step, or keep the resources to proceed to the next lab/tutorial where we observe network traffic between the two VMs using Wireshark.
 - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/jacksonmalms/azure-network-protocols)
 </p>
 <br />
