@@ -3,7 +3,7 @@
 </p>
 
 <h1>How to Setup VMs and a Virtual Network in Azure</h1>
-This tutorial is desined to teach beginners how to create VMs and setup a Vnet in Azure, and then observe the etwork topology with Network Watcher.<br />
+This tutorial is designed to teach beginners how to create VMs and setup a Vnet in Azure, and then observe the network topology with Network Watcher.<br />
 
 <h2>Pre-requisites </h2>
 
@@ -123,7 +123,7 @@ Click on "Topology".
 </p>
 <p>
 Select the resource group and Vnet that correspond to the ones we just created, and now we can see a visual representation of the network we just made!
-Now we are finished, but if you you are unable to see the the topology and get a red text box instead, please proceed to the next step.
+Now we are finished, but if you you are unable to see the topology and get a red text box instead, please proceed to the next step.
 </p>
 <br />
 
